@@ -35,4 +35,9 @@ OUTPUTS:
 
 ![153](https://user-images.githubusercontent.com/60093326/135106539-85e3263e-8678-456e-86eb-876cc57aec47.jpg)
 
+![A565](https://user-images.githubusercontent.com/60093326/135107047-1065a49a-bf66-4c84-9425-24560edbd560.jpg)
+
+![a7](https://user-images.githubusercontent.com/60093326/135107121-88bdf758-0424-4c5a-a103-43593ae22213.jpg)
+
+
 
