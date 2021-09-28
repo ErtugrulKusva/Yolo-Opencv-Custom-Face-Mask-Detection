@@ -30,3 +30,9 @@ Yolo-main(330 Mb) 416x 416 resolution weight file = 15-20 FPS
 I am sharing the detection code, the weight file resulting from the training and the project outputs so that you can use the model which I created, in your own projects.
 
 
+
+OUTPUTS:
+
+![153](https://user-images.githubusercontent.com/60093326/135106539-85e3263e-8678-456e-86eb-876cc57aec47.jpg)
+
+
